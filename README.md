@@ -34,6 +34,7 @@ badgeが文字
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
 
 <img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=naoymd&count_private=true&show_icons=true&theme=highcontrast" />
 <img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=naoymd&hide=jupyter%20notebook&layout=default&theme=highcontrast" />
