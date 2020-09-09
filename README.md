@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Nao Yamada 👋
 
 <!--
 **naoymd/naoymd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Skills
 
 <p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -32,9 +34,13 @@ Here are some ideas to get you started:
 badgeが文字
 -->
 
+### SNS
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+
+
+### GitHub Stats
 
 <img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=naoymd&count_private=true&show_icons=true&theme=highcontrast" />
 <img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=naoymd&hide=jupyter%20notebook&layout=default&theme=highcontrast" />
