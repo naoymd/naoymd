@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ![twitter](https://img.shields.io/twitter/follow/70snt_ny?label=Follow&style=social)
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+<!-- logoがアイコン
+badgeが文字
+-->
 
 <img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=naoymd&count_private=true&show_icons=true&theme=highcontrast" />
 <img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=naoymd&hide=jupyter%20notebook&layout=default&theme=highcontrast" />
