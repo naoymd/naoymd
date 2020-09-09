@@ -42,8 +42,8 @@ badgeが文字
 
 ### GitHub Stats
 
-<img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=naoymd&count_private=true&show_icons=true&theme=highcontrast" />
-<img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=naoymd&hide=jupyter%20notebook&layout=default&theme=highcontrast" />
+<img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=naoymd&count_private=true&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=naoymd&layout=default&theme=tokyonight" />
 
 
 [twitter]: https://twitter.com/70snt_ny
