@@ -1,4 +1,4 @@
-### Hi there, I'm Nao Yamada 👋
+### Hi there, I'm Nao Yamada <img src="https://img.shields.io/badge/-PS4-003791?style=flat-square&logo=playstation&logoColor=white"/> <img src="https://img.shields.io/badge/-21-326295?style=flat-square&logo=FIFA&logoColor=white"/>
 
 <!--
 **naoymd/naoymd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vim-1572B6?style=flat-square&logo=Vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/-FIFA-326295?style=flat-square&logo=FIFA&logoColor=white"/>
+
 <!--
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
@@ -45,7 +45,6 @@ badgeが文字
 
 <img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=naoymd&count_private=true&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=naoymd&layout=default&theme=tokyonight" />
-
 
 [twitter]: https://twitter.com/70snt_ny
 [instagram]: https://www.instagram.com/70snt_ny/
