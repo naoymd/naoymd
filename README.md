@@ -43,8 +43,12 @@ badgeが文字
 
 ### GitHub Stats
 
-<img align="left" src="https://github-readme-stats.naoymd.vercel.app/api?username=naoymd&count_private=true&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.naoymd.vercel.app/api/top-langs/?username=naoymd&layout=default&theme=tokyonight" />
+<!--
+[![naoymd's github stats](https://github-readme-stats.vercel.app/api?username=naoymd&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/naoymd/naoymd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naoymd&layout=default&theme=tokyonight)](https://github.com/naoymd)
+-->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=naoymd&count_private=true&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoymd&layout=default&theme=tokyonight" />
 
 [twitter]: https://twitter.com/70snt_ny
 [instagram]: https://www.instagram.com/70snt_ny/
