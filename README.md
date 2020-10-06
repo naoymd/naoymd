@@ -1,4 +1,4 @@
-### Hi there, I'm Nao Yamada <img src="https://img.shields.io/badge/-PS4-003791?style=flat-square&logo=playstation&logoColor=white"/> <img src="https://img.shields.io/badge/--000000?style=flat-square&logo=ea&logoColor=white"/> <img src="https://img.shields.io/badge/-21-326295?style=flat-square&logo=FIFA&logoColor=white"/>
+### Hi there, I'm Nao Yamada <img src="https://img.shields.io/badge/-PS4-003791?style=flat-square&logo=playstation&logoColor=white"/> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=ea&logoColor=white"/> <img src="https://img.shields.io/badge/-21-326295?style=flat-square&logo=FIFA&logoColor=white"/>
 
 <!--
 **naoymd/naoymd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
