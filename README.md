@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Vim-1572B6?style=flat-square&logo=Vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 
 
 <!--
